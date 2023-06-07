@@ -1,0 +1,173 @@
+<div class="row row-cols-1 row-cols-md-2 g-4">
+  <div class="col">
+    <div class="card">
+      <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+<!--start-typography-->
+<div class="dinning">
+  <div class="about second">
+    <div class="container">
+        <div class="about-top">
+          <div class="col-md-7 about-top-right">
+            <h4 style="font-family: sans-serif; font-size: 20px;"> 
+              Experience is everything in leisure and dinning.
+              </h4>
+    <p style="font-family: sans-serif;">We are open for services, discover more about leisure and dinning  outlets that we have during your day out at the Park.</p>
+      <br>
+      <p style="font-family: sans-serif;">
+      The best part about leisure time is doing something You likely enjoy. And, dinning operation has a unique opportunity to be part of this experience for clients enjoying their favourite past times. Not only do the theme park have a little bit of everything for different interests, they also provide fun for the whole family in one spot.
+    </p> 
+  
+    <strong style="font-family: sans-serif;"> Be advised that allergens and kcal's may vary, so please ensure you discuss your requirements with a member of staff at your point of purchase.</strong></div>
+    <div class="col-md-5 about-top-left">
+      <img src="images/foodImg.webp" class="img-responsive" alt=""/>
+    </div>
+    <div class="clearfix"></div>
+  </div> <br>
+
+    <p style="font-family: sans-serif; text-align: left;">Traditional breakfasts, hearty burgers, tasty fish & chips, perfect pizzas, pasta, brimming burritos, loaded fries, Mediterranean chicken, deep filled sandwiches, fresh fruit and vegetables, potato crisps, delicious ice cream, fresh pastries, ice cold drinks, a selection of teas, bean to cup ground coffee and a whole lot more! </p> <br>
+
+    <ul style="font-family: sans-serif; " >
+  Dine in restaurants or takeaway outlets available across the Park.
+
+      <li style="text-align: left;">Traditional breakfasts, light lunch bites, hearty dinners, and tasty desserts available.</li>
+
+    <li style="text-align: left;">Vegetarian, vegan and nut free dishes. Food allergy & intolerance advice available.</li>
+  
+    <p style="font-family: sans-serif; text-align: left;"><strong> Our menus and dining options below:</strong></p>
+  </ul><br>
+
+
+  <div class="row row-cols-1 row-cols-md-2 g-4">
+<div class="col">
+<div class="card">
+  <img src="./food1.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+  </div>
+</div>
+</div>
+<div class="col">
+<div class="card">
+  <img src="./food10.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+  </div>
+</div>
+</div>
+<div class="col">
+<div class="card">
+  <img src="./food2.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+  </div>
+</div>
+</div>
+<div class="col">
+<div class="card">
+  <img src="./food3.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+  </div>
+</div>
+</div>
+</div>
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+<div class="col">
+<div class="card">
+  <img src="./food4.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+  </div>
+</div>
+</div>
+<div class="col">
+<div class="card">
+  <img src="./food5.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+  </div>
+</div>
+</div>
+<div class="col">
+<div class="card">
+  <img src="./food6.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+  </div>
+</div>
+</div>
+<div class="col">
+<div class="card">
+  <img src="./food7.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+  </div>
+</div>
+</div>
+<div class="col">
+<div class="card">
+  <img src=".//food8.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+  </div>
+</div>
+</div>
+<div class="col">
+<div class="card">
+  <img src="./food9.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+</div>		
+</div>	 
+</div>
